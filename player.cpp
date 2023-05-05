@@ -36,6 +36,15 @@ private:
 			int a10 = avail[10] - (state[9] - 'a');
 			return (eps + a * (sz - a10 - 1)) / ((sz - 1.0) * (sz - a10));
 		}
+		/*for US blackjack
+		if(dUpcard == 10){
+			if(c == 1)
+				return (eps + a) / (sz - 1);
+			int a1 = avail[1] - (state[0] - 'a');
+			return (eps + a * (sz - a1 - 1)) / ((sz - 1.0) * (sz - a1));
+		}
+		*/
+
 		return (eps + a) / sz; 
 	}
 	
@@ -115,9 +124,9 @@ private:
 			double sum = deal.bust;
 			for(int i = 17; i < st; i++)
 				sum += deal.tot[i];
-			double standEv = 2 * sum + deal.tot[st];
+			//playtech peek if dealer has hidden bj double bet is returned
+			double standEv = 2 * sum + deal.tot[st] + deal.bj / 2;
 			doubleEv += pCard(state, 2, nxt) * standEv;
-			
 		}
 		return 2 * doubleEv - 1;
 	}
@@ -125,6 +134,8 @@ private:
 public:
 
 	static void buildHands(){
+		if(!dec.empty())
+			return;
 		dec.push_back("aaaaaaaaaa");
 		enc[dec.back()] = 0;
 		draws[0] = 0;

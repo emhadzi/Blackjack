@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 #include "RTP.cpp"
 using namespace std;
@@ -21,17 +20,6 @@ inline int getSuit(char s){
     if(s == 'h')
         return 2;
     return 3;
-}
-
-void makeShoe(int decks){
-    sz = 52 * decks;
-    avail[0] = -1;
-    for(int i = 1; i < 10; i++){
-        avail[i] = 4 * decks;
-        for(int s = 0; s < 4; s++)
-            suited[i][s] = decks;
-    }
-    avail[10] = 16 * decks;
 }
 
 inline int makeSoft(bool soft, int x){
@@ -220,59 +208,28 @@ double hand(){
     return total;
 }
 
-void dispose(){
-    int c = 1;
-    char s;
-    cout << "Enter extra cards you want to dispose (0 to exit): \n";
-    while(1){
-        cin >> c;// >> s;
-        if(c == 0)
-            break;
-        if(c < 0 || c > 10)
-            continue;
-        if(c == 1 || c == 10)
-            RTP::cnt--;
-        else if(c < 7)
-            RTP::cnt++;
-        sz--;
-        avail[c]--;
-        //suited[c][getSuit(s)]--;
-        cout << "Disposed card: " << c << endl;
-    }
-}
-
-void stats(double rtp){
-    cout << "Remaining shoe size: " << sz << "\n";
-    cout << "Shoe distribution: ";
-    for(int i = 1; i <= 10; i++)
-        cout << avail[i] << " ";
-    cout << "\n";
-
-    //cout << "21+3 RTP: " << 100 * RTP::calc21p3(sz, suited) << "%\n";
-    cout << "True count: " << RTP::trueHighLow(sz, avail) << "\n";
-    cout << "RTP: " << 100 * rtp << "%\n";
-}
-
 int main(){
     ofstream log("winnings.txt", ios::app);
     log << "#\n";
 
     player::buildHands();
-    RTP::cnt = 0;
-    makeShoe(8);
     while(1){
+        cout << "Bet: ";
+        double bet = 0;
+        cin >> bet;
+        ifstream fin("shoeDistribution.txt");
+        fin >> sz;
+        for(int i = 0; i < 11; i++)
+            fin >> avail[i];
+        fin.close();
         double rtp = RTP::calcRTP(sz, avail);
-        stats(rtp);
-        cout << "Participate?\n";
-        double play = 0;
-        cin >> play;
-        if(play != 0){
-            double win = play * (hand() - 1);
-            log << win << " " << play * (rtp - 1) << endl;
-        }
-        dispose();
-        cout << endl;
+        cout << "Betting: " << bet << " with RTP: " << 100 * rtp << "%\n";
+        double win = bet * (hand() - 1), expected = bet * (rtp - 1);
+        cout << "Won: " << win << " expected: " << expected << "\n\n";
+        log << win << " " << expected << endl;
         //cout << "Total: " << total << "\n";
     }
 }
 //fix winnnings when double on 10
+
+

@@ -3,6 +3,7 @@ using namespace std;
 
 class RTP{
 private:
+    static constexpr int decks = 8;
     static constexpr double BJRAT = 2.5;
 
 public:
@@ -46,6 +47,7 @@ public:
 
                     if(!((p1 == 1 && p2 == 10) || (p1 == 10 && p2 == 1))){
                         double shownBJ = (d == 1) * (eps + avail[10]) / (sz - 3);
+                        //double hiddenBJ = (d == 10) * (eps + avail[1]) / (sz - 3);
                         double startEv = pH.getEV(state);
                         double insur = (d == 1) * max(0.0, (1.5 * avail[10] / (sz + eps)) - 0.5);
 
@@ -69,6 +71,11 @@ public:
     }
     
     static double trueHighLow(int sz, int* avail){
+        double cnt = 0;
+        for(int i = 2; i <= 6; i++)
+            cnt += decks * 4 - avail[i];
+        cnt -= decks * 16 - avail[10];
+        cnt -= decks * 4 - avail[1];
 		return (52 * cnt) / (sz + eps); 
 	}
 };

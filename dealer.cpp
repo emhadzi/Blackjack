@@ -62,6 +62,8 @@ public:
 				rec(pCard(i) * linFact, 1, 1 + i, i);
 		} 
 		else if(upcard == 10){
+            //double hiddenBJ = pCard(1);
+            //double linFact = 1 / (1 - hiddenBJ);
 			bj = pCard(1);
 			for(int i = 2; i <= 10; i++)
 				rec(pCard(i), 0, 10 + i, i);

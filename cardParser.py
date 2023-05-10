@@ -145,6 +145,7 @@ while(1):
     #pass results to file
     if(idle > 3 and old_state != ""):
         print("Writting to file")
+        load_shoe()
         with open(save_path, 'w', encoding='utf-8') as tableCards:
             tableCards.write(state)
         removed = state.split()

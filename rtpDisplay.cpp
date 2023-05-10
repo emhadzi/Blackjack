@@ -25,14 +25,6 @@ int main(){
             double rtp = RTP::calcRTP(sz, avail);
             cout << "RTP: " << 100 * rtp << "%\n\n";
             fin.close();
-
-            double total, sum;
-            ifstream growthIn("growthRate.txt");
-            growthIn >> total >> sum;
-            growthIn.close();
-            ofstream growthOut("growthRate.txt");
-            growthOut << total + 1 << " " << sum + (rtp > 1 ? ((rtp - 1) * (rtp - 1)) : 0); 
-            growthOut.close();
         }
         fin.close();
     }

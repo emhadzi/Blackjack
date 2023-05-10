@@ -6,7 +6,7 @@ public:
     static constexpr double eps = 0.00000001;
     
     int shoeSize, upcard;
-    int* avail;
+    int avail[11];
     double tot[22], bust, bj;
 
     inline double pCard(int c){
@@ -45,7 +45,6 @@ public:
     dealer(int* avail, int upcard, int shoeSize, const string& state, int missing){
 		this->upcard = upcard;
         this->shoeSize = shoeSize - missing;
-        this->avail = new int[11];
         for(int i = 1; i <= 10; i++)
             this->avail[i] = avail[i] - (state[i-1] - 'a');
 

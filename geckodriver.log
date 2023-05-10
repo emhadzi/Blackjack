@@ -24707,3 +24707,2006 @@ JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23
 [Child 26268, MediaDecoderStateMachine #1] WARNING: 1cf1ebdb020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
 [Child 26268, MediaDecoderStateMachine #1] WARNING: 1cf1ebdb570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
 [Child 26268, MediaDecoderStateMachine #1] WARNING: 1cf1ebdb570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1683330568105	geckodriver	INFO	Listening on 127.0.0.1:51860
+1683330571158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileMsRugg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683330571393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683330571396	Marionette	INFO	Listening on port 51869
+WebDriver BiDi listening on ws://127.0.0.1:51861
+Read port: 51869
+1683330571590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileMsRugg\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51861/devtools/browser/02a157e6-5947-41d3-8c32-192928daad6e
+1683330572494	Marionette	INFO	Stopped listening on port 51869
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683330574864	geckodriver	INFO	Listening on 127.0.0.1:51879
+1683330577918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileCeXAs7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683330578094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683330578096	Marionette	INFO	Listening on port 51887
+Read port: 51887
+WebDriver BiDi listening on ws://127.0.0.1:51880
+1683330578171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileCeXAs7\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51880/devtools/browser/c8dc3bc2-8ecf-4e5a-a2e6-c4aa1e37cb99
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683331111529	geckodriver	INFO	Listening on 127.0.0.1:52085
+1683331114582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilecWmhOw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683331114782	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683331114785	Marionette	INFO	Listening on port 52095
+Read port: 52095
+WebDriver BiDi listening on ws://127.0.0.1:52086
+1683331114850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilecWmhOw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52086/devtools/browser/f4b35342-4bc8-47ed-9470-ba6232727347
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683331640947	geckodriver	INFO	Listening on 127.0.0.1:52329
+1683331644005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52330" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilelgFGB3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683331644188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683331644190	Marionette	INFO	Listening on port 52339
+Read port: 52339
+WebDriver BiDi listening on ws://127.0.0.1:52330
+1683331644256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilelgFGB3\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52330/devtools/browser/e1a7fcb0-0aea-450c-bcea-50e7132294f3
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683331664610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683332150597	geckodriver	INFO	Listening on 127.0.0.1:52596
+1683332153644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepMAKj8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683332153833	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683332153838	Marionette	INFO	Listening on port 52605
+Read port: 52605
+WebDriver BiDi listening on ws://127.0.0.1:52597
+1683332153912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepMAKj8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52597/devtools/browser/70394a2d-2b7a-4ff1-93f6-1330bc5d275a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683332636852	geckodriver	INFO	Listening on 127.0.0.1:52796
+1683332639897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile9AFBaR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683332640085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683332640088	Marionette	INFO	Listening on port 52805
+Read port: 52805
+WebDriver BiDi listening on ws://127.0.0.1:52797
+1683332640157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile9AFBaR\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52797/devtools/browser/619f1ee7-4bbd-4187-ad79-7d23b6055ca9
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683332657487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683332918687	geckodriver	INFO	Listening on 127.0.0.1:52988
+1683332921749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilezklpEr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683332921942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683332921945	Marionette	INFO	Listening on port 52996
+Read port: 52996
+WebDriver BiDi listening on ws://127.0.0.1:52989
+1683332922010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilezklpEr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52989/devtools/browser/68b8e77f-d5a8-424a-8b2b-62246727b0b7
+1683332922977	Marionette	INFO	Stopped listening on port 52996
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/doh-providers list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683332925436	geckodriver	INFO	Listening on 127.0.0.1:53006
+1683332928482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileRY8C8Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683332928665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683332928667	Marionette	INFO	Listening on port 53014
+Read port: 53014
+WebDriver BiDi listening on ws://127.0.0.1:53007
+1683332928734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileRY8C8Q\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53007/devtools/browser/76ee225c-d709-43d3-a94c-28febd7f6c08
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683332946907	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683333428491	geckodriver	INFO	Listening on 127.0.0.1:53191
+1683333431552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileblfF3c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683333431729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683333431732	Marionette	INFO	Listening on port 53200
+Read port: 53200
+WebDriver BiDi listening on ws://127.0.0.1:53192
+1683333431809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileblfF3c\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53192/devtools/browser/c0ff8f5a-ce25-457c-ac0d-ef07dd36060b
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683333946327	geckodriver	INFO	Listening on 127.0.0.1:53381
+1683333949386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileKhKCTp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683333949566	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683333949568	Marionette	INFO	Listening on port 53390
+Read port: 53390
+WebDriver BiDi listening on ws://127.0.0.1:53382
+1683333949635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileKhKCTp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53382/devtools/browser/0f04686e-4bae-4f90-9f14-b949648c29fe
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683334485898	geckodriver	INFO	Listening on 127.0.0.1:53579
+1683334488952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileklP95f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683334489142	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683334489144	Marionette	INFO	Listening on port 53588
+Read port: 53588
+WebDriver BiDi listening on ws://127.0.0.1:53580
+1683334489210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileklP95f\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53580/devtools/browser/8ead6820-fbca-4464-b840-df06387f6012
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683334919636	geckodriver	INFO	Listening on 127.0.0.1:53756
+1683334922679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiletfSAuU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683334922868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683334922871	Marionette	INFO	Listening on port 53764
+Read port: 53764
+WebDriver BiDi listening on ws://127.0.0.1:53757
+1683334922939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiletfSAuU\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53757/devtools/browser/c0f84a9a-57d0-40c6-92f7-6b1085fdced5
+1683334923817	Marionette	INFO	Stopped listening on port 53764
+Dynamically enable window occlusion 1
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 414))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683334926420	geckodriver	INFO	Listening on 127.0.0.1:53774
+1683334929488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile8POWT6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683334929678	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683334929680	Marionette	INFO	Listening on port 53782
+Read port: 53782
+WebDriver BiDi listening on ws://127.0.0.1:53775
+1683334929748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile8POWT6\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53775/devtools/browser/e759679a-c8a6-47ac-957f-89f0ec7bd19d
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683335454229	geckodriver	INFO	Listening on 127.0.0.1:53971
+1683335457294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiledXeh8o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683335457474	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683335457477	Marionette	INFO	Listening on port 53980
+Read port: 53980
+WebDriver BiDi listening on ws://127.0.0.1:53972
+1683335457545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiledXeh8o\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53972/devtools/browser/042c150c-624e-41a5-a697-71061cf879db
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683335983434	geckodriver	INFO	Listening on 127.0.0.1:54157
+1683335986493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileHYW1hL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683335986688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683335986691	Marionette	INFO	Listening on port 54166
+Read port: 54166
+WebDriver BiDi listening on ws://127.0.0.1:54158
+1683335986756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileHYW1hL\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54158/devtools/browser/2d23b645-fe98-47f7-afa2-61db0344ba89
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+1683336531907	geckodriver	INFO	Listening on 127.0.0.1:54352
+1683336534955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileEbD53p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683336535132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683336535134	Marionette	INFO	Listening on port 54361
+WebDriver BiDi listening on ws://127.0.0.1:54353
+Read port: 54361
+1683336535252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileEbD53p\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54353/devtools/browser/0514538d-9b3e-4461-9362-e3b406da7291
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683337068411	geckodriver	INFO	Listening on 127.0.0.1:54534
+1683337071464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileTsLKDd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683337071665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683337071668	Marionette	INFO	Listening on port 54543
+Read port: 54543
+WebDriver BiDi listening on ws://127.0.0.1:54535
+1683337071732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileTsLKDd\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54535/devtools/browser/286285be-ba00-4ecb-b657-2bcdc5c6e3ba
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683337089766	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683337296159	geckodriver	INFO	Listening on 127.0.0.1:54704
+1683337299235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileSprtFT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683337299450	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683337299452	Marionette	INFO	Listening on port 54718
+Read port: 54718
+WebDriver BiDi listening on ws://127.0.0.1:54705
+1683337299520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileSprtFT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54705/devtools/browser/17a303b2-02f7-4e57-904f-6992981bd536
+1683337300455	Marionette	INFO	Stopped listening on port 54718
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/doh-providers list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683337303007	geckodriver	INFO	Listening on 127.0.0.1:54729
+1683337306082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileEPtu5Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683337306272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683337306274	Marionette	INFO	Listening on port 54737
+Read port: 54737
+WebDriver BiDi listening on ws://127.0.0.1:54730
+1683337306337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileEPtu5Y\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54730/devtools/browser/1b445a4f-e6f3-4026-b295-c1aa95d84ce0
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683337324002	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683337808149	geckodriver	INFO	Listening on 127.0.0.1:54908
+1683337811185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile8fu9EF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683337811373	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683337811376	Marionette	INFO	Listening on port 54917
+Read port: 54917
+WebDriver BiDi listening on ws://127.0.0.1:54909
+1683337811438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile8fu9EF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54909/devtools/browser/6da52916-938f-49c0-8d00-111ad5cab36e
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683337832081	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+1683338390130	geckodriver	INFO	Listening on 127.0.0.1:55130
+1683338393176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile3pVYoF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683338393347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683338393349	Marionette	INFO	Listening on port 55139
+WebDriver BiDi listening on ws://127.0.0.1:55131
+Read port: 55139
+1683338393466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile3pVYoF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55131/devtools/browser/feeeb5ae-b587-47a7-8eb0-a261cebe45b7
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683338413800	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683338882209	geckodriver	INFO	Listening on 127.0.0.1:55320
+1683338885268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileuiTCXi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683338885454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683338885456	Marionette	INFO	Listening on port 55330
+Read port: 55330
+WebDriver BiDi listening on ws://127.0.0.1:55321
+1683338885520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileuiTCXi\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55321/devtools/browser/7e871456-b994-4518-9294-aeb216eb2dde
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683339377147	geckodriver	INFO	Listening on 127.0.0.1:55568
+1683339380212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileiFdkhU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683339380417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683339380421	Marionette	INFO	Listening on port 55577
+Read port: 55577
+WebDriver BiDi listening on ws://127.0.0.1:55569
+1683339380485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileiFdkhU\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55569/devtools/browser/37719925-ee07-4e9b-9b6b-3984fa4734b5
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683339437819	geckodriver	INFO	Listening on 127.0.0.1:55719
+1683339440883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilelL7MNj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683339441071	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683339441074	Marionette	INFO	Listening on port 55727
+Read port: 55727
+WebDriver BiDi listening on ws://127.0.0.1:55720
+1683339441138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilelL7MNj\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55720/devtools/browser/bec7226a-a9de-4dd8-b668-46416283786c
+1683339442148	Marionette	INFO	Stopped listening on port 55727
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683339444672	geckodriver	INFO	Listening on 127.0.0.1:55737
+1683339447734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilesPyz4R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683339447916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683339447918	Marionette	INFO	Listening on port 55752
+Read port: 55752
+WebDriver BiDi listening on ws://127.0.0.1:55738
+1683339447992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilesPyz4R\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55738/devtools/browser/f1e9ed7a-8430-40a8-8a21-2a313b490146
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+1683339939071	geckodriver	INFO	Listening on 127.0.0.1:55934
+1683339942124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileM7GgU0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683339942315	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683339942318	Marionette	INFO	Listening on port 55943
+Read port: 55943
+WebDriver BiDi listening on ws://127.0.0.1:55935
+1683339942388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileM7GgU0\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55935/devtools/browser/e4e21597-9141-469b-b6f1-f9a2f0d1e2f2
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683340470026	geckodriver	INFO	Listening on 127.0.0.1:56205
+1683340473092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileLsQRLP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683340473288	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683340473292	Marionette	INFO	Listening on port 56218
+Read port: 56218
+WebDriver BiDi listening on ws://127.0.0.1:56206
+1683340473367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileLsQRLP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56206/devtools/browser/6731bafa-0d2a-44e1-a7a6-a97b81d94d1f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683340972672	geckodriver	INFO	Listening on 127.0.0.1:56430
+1683340975722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileP1THCY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683340975906	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683340975908	Marionette	INFO	Listening on port 56440
+Read port: 56440
+WebDriver BiDi listening on ws://127.0.0.1:56431
+1683340975974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileP1THCY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56431/devtools/browser/dc25d8b4-ecce-4db3-be1f-ce792c9a8565
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1683341462709	geckodriver	INFO	Listening on 127.0.0.1:56598
+1683341465759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilej4SkuC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683341465943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683341465946	Marionette	INFO	Listening on port 56607
+Read port: 56607
+WebDriver BiDi listening on ws://127.0.0.1:56599
+1683341466015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilej4SkuC\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56599/devtools/browser/65bdc68b-0d01-434a-a7de-cc1f1a780beb
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+1683341478994	geckodriver	INFO	Listening on 127.0.0.1:56702
+1683341482076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileBoLtfz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683341482261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683341482263	Marionette	INFO	Listening on port 56710
+Read port: 56710
+WebDriver BiDi listening on ws://127.0.0.1:56703
+1683341482330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileBoLtfz\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56703/devtools/browser/758a0731-7169-4d9e-a874-58fc3bb0c8b8
+1683341483330	Marionette	INFO	Stopped listening on port 56710
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683341485669	geckodriver	INFO	Listening on 127.0.0.1:56720
+1683341488738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile0EAQUp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683341488916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683341488919	Marionette	INFO	Listening on port 56728
+WebDriver BiDi listening on ws://127.0.0.1:56721
+Read port: 56728
+1683341488991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile0EAQUp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56721/devtools/browser/c75370a8-0ef8-49fe-a6e0-ab4e82794900
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683341973295	geckodriver	INFO	Listening on 127.0.0.1:56941
+1683341976359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileP4AReH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683341976540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683341976542	Marionette	INFO	Listening on port 56951
+Read port: 56951
+WebDriver BiDi listening on ws://127.0.0.1:56942
+1683341976619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileP4AReH\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56942/devtools/browser/bf10c624-d8ac-46bc-9f19-336954c39243
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1683342507525	geckodriver	INFO	Listening on 127.0.0.1:57214
+1683342510598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileQE2ed9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683342510804	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683342510807	Marionette	INFO	Listening on port 57229
+Read port: 57229
+WebDriver BiDi listening on ws://127.0.0.1:57215
+1683342510884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileQE2ed9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57215/devtools/browser/0897a56d-2216-46f5-be57-7cdb91b2770f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683343026179	geckodriver	INFO	Listening on 127.0.0.1:57448
+1683343029229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileKuoltX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683343029406	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683343029409	Marionette	INFO	Listening on port 57457
+Read port: 57457
+WebDriver BiDi listening on ws://127.0.0.1:57449
+1683343029484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileKuoltX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57449/devtools/browser/b4dcb947-0af7-4d91-a5fe-f260a5cbf34a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+1683343283851	geckodriver	INFO	Listening on 127.0.0.1:58012
+1683343286914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilerFWdKs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683343287090	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683343287092	Marionette	INFO	Listening on port 58020
+WebDriver BiDi listening on ws://127.0.0.1:58013
+Read port: 58020
+1683343287208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilerFWdKs\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58013/devtools/browser/795d8988-33a8-48f6-84f4-c73d50966265
+1683343288055	Marionette	INFO	Stopped listening on port 58020
+Dynamically enable window occlusion 1
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 414))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683343290561	geckodriver	INFO	Listening on 127.0.0.1:58030
+1683343293650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile107h8z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683343293852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683343293854	Marionette	INFO	Listening on port 58038
+Read port: 58038
+WebDriver BiDi listening on ws://127.0.0.1:58031
+1683343293917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile107h8z\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58031/devtools/browser/02da9979-cadf-4248-8ef1-0b2e59944861
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683343778497	geckodriver	INFO	Listening on 127.0.0.1:58471
+1683343781552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilexasWoj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683343781725	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683343781728	Marionette	INFO	Listening on port 58480
+WebDriver BiDi listening on ws://127.0.0.1:58472
+Read port: 58480
+1683343781844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilexasWoj\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58472/devtools/browser/bd3cf69d-d37e-41f7-928f-18e7f7965845
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683344279663	geckodriver	INFO	Listening on 127.0.0.1:58896
+1683344282714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiletxZftJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683344282886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683344282888	Marionette	INFO	Listening on port 58905
+WebDriver BiDi listening on ws://127.0.0.1:58897
+Read port: 58905
+1683344283007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiletxZftJ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58897/devtools/browser/2055583a-389b-4f50-ac35-96ca51660796
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683402737606	geckodriver	INFO	Listening on 127.0.0.1:53077
+1683402740665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilejmNCkT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683402740909	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683402740913	Marionette	INFO	Listening on port 53086
+WebDriver BiDi listening on ws://127.0.0.1:53078
+Read port: 53086
+1683402741136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilejmNCkT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53078/devtools/browser/9f67d618-a737-4034-8744-075502b5e7e7
+1683402742058	Marionette	INFO	Stopped listening on port 53086
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683402744533	geckodriver	INFO	Listening on 127.0.0.1:53096
+1683402747593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileylOA16"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683402747792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683402747795	Marionette	INFO	Listening on port 53104
+Read port: 53104
+WebDriver BiDi listening on ws://127.0.0.1:53097
+1683402747859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileylOA16\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53097/devtools/browser/f950dc42-b18e-4e76-afa4-6623ccd5bd7b
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683403546071	geckodriver	INFO	Listening on 127.0.0.1:53370
+1683403549090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileYSdJMT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683403549266	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683403549269	Marionette	INFO	Listening on port 53381
+WebDriver BiDi listening on ws://127.0.0.1:53371
+Read port: 53381
+1683403549341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileYSdJMT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53371/devtools/browser/21985315-6c0c-439b-a231-f0f2ea911350
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683404056709	geckodriver	INFO	Listening on 127.0.0.1:53547
+1683404059775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileFMoLeV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683404059956	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683404059958	Marionette	INFO	Listening on port 53558
+Read port: 53558
+WebDriver BiDi listening on ws://127.0.0.1:53548
+1683404060029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileFMoLeV\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53548/devtools/browser/51d0b0b0-bf79-40b3-86a0-9ebaaf37a954
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+1683404548229	geckodriver	INFO	Listening on 127.0.0.1:53740
+1683404551299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileIUjGoY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683404551478	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683404551481	Marionette	INFO	Listening on port 53749
+Read port: 53749
+WebDriver BiDi listening on ws://127.0.0.1:53741
+1683404551551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileIUjGoY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53741/devtools/browser/1ef9cb06-3306-4435-9892-d3f410eb12b8
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683405086725	geckodriver	INFO	Listening on 127.0.0.1:53919
+1683405089768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileE0QGsV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683405089944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683405089946	Marionette	INFO	Listening on port 53928
+WebDriver BiDi listening on ws://127.0.0.1:53920
+Read port: 53928
+1683405090061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileE0QGsV\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53920/devtools/browser/be2cca1e-9ef8-4c61-970d-23e33af28efa
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683405631368	geckodriver	INFO	Listening on 127.0.0.1:54103
+1683405634418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilemnUG17"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683405634594	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683405634596	Marionette	INFO	Listening on port 54112
+WebDriver BiDi listening on ws://127.0.0.1:54104
+Read port: 54112
+1683405634671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilemnUG17\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54104/devtools/browser/6efef84e-6e35-4c5c-be3d-9d223435ca3a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683405703091	geckodriver	INFO	Listening on 127.0.0.1:54260
+1683405706126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileTWy07u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683405706302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683405706305	Marionette	INFO	Listening on port 54268
+WebDriver BiDi listening on ws://127.0.0.1:54261
+Read port: 54268
+1683405706422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileTWy07u\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54261/devtools/browser/1b36c24a-f556-494f-94ba-bd798137c636
+1683405707327	Marionette	INFO	Stopped listening on port 54268
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/doh-config list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683405709821	geckodriver	INFO	Listening on 127.0.0.1:54278
+1683405712844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile5e4sYr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683405713020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683405713023	Marionette	INFO	Listening on port 54286
+WebDriver BiDi listening on ws://127.0.0.1:54279
+Read port: 54286
+1683405713141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile5e4sYr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54279/devtools/browser/59ad5933-0b6f-4867-90af-21106df557e5
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+1683406206537	geckodriver	INFO	Listening on 127.0.0.1:54464
+1683406209616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepWXxoI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683406209793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683406209796	Marionette	INFO	Listening on port 54473
+WebDriver BiDi listening on ws://127.0.0.1:54465
+Read port: 54473
+1683406209868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepWXxoI\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54465/devtools/browser/d15cf663-dc6f-4e85-8655-eff30397b1cd
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683406699210	geckodriver	INFO	Listening on 127.0.0.1:54710
+1683406702257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileVQzzs6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683406702429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683406702432	Marionette	INFO	Listening on port 54719
+WebDriver BiDi listening on ws://127.0.0.1:54711
+Read port: 54719
+1683406702585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileVQzzs6\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54711/devtools/browser/82ae9991-da3b-41ef-95a7-8ff9a8ea10a5
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683407186995	geckodriver	INFO	Listening on 127.0.0.1:54899
+1683407190074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile0eHWSP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683407190250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683407190253	Marionette	INFO	Listening on port 54928
+Read port: 54928
+WebDriver BiDi listening on ws://127.0.0.1:54900
+1683407190324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile0eHWSP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54900/devtools/browser/60f98ba5-0c98-45a9-b0ab-e0062f5ddb90
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/4b/3155.4b0fcc8e.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683730125468	geckodriver	INFO	Listening on 127.0.0.1:63260
+1683730128537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileF2k72f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683730128753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683730128757	Marionette	INFO	Listening on port 63270
+Read port: 63270
+WebDriver BiDi listening on ws://127.0.0.1:63261
+1683730128832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63261/devtools/browser/4bdf4bbe-320f-4924-a668-1561fd60ff4d
+1683730130293	Marionette	INFO	Stopped listening on port 63270
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9628, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683730132244	geckodriver	INFO	Listening on 127.0.0.1:63280
+1683730135302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepoLsEy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683730135481	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683730135484	Marionette	INFO	Listening on port 63288
+WebDriver BiDi listening on ws://127.0.0.1:63281
+Read port: 63288
+1683730135556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63281/devtools/browser/5a5e42f7-3eea-4c83-bbca-4820d17681dd
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+1683730659676	geckodriver	INFO	Listening on 127.0.0.1:63587
+1683730662737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile6Hf2fz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683730662936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683730662938	Marionette	INFO	Listening on port 63597
+Read port: 63597
+WebDriver BiDi listening on ws://127.0.0.1:63588
+1683730663008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63588/devtools/browser/c70f20a9-945f-4ae3-907f-e2de62a9e144
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/52/1175.52b232aa.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/live/bundles/23.4.0.35/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))

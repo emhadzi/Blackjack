@@ -1,0 +1,1204 @@
+1698074115606	geckodriver	INFO	Listening on 127.0.0.1:57820
+1698074118683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileVDcBY2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074118910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074118965	Marionette	INFO	Listening on port 57833
+WebDriver BiDi listening on ws://127.0.0.1:57821
+Read port: 57833
+1698074119150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57821/devtools/browser/b1b0abf0-d398-4629-ab73-efebf86e9630
+1698074120256	Marionette	INFO	Stopped listening on port 57833
+Dynamically enable window occlusion 1
+1698074122234	geckodriver	INFO	Listening on 127.0.0.1:57849
+1698074125287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57850" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofiler0f1Et"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074125474	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074125527	Marionette	INFO	Listening on port 57858
+WebDriver BiDi listening on ws://127.0.0.1:57850
+Read port: 57858
+1698074125945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57850/devtools/browser/d4074ff0-187a-4337-a04b-74888ea4640b
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698074151738	geckodriver	INFO	Listening on 127.0.0.1:57941
+1698074154809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileFeaffG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074155028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074155096	Marionette	INFO	Listening on port 57950
+WebDriver BiDi listening on ws://127.0.0.1:57942
+Read port: 57950
+1698074155300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57942/devtools/browser/ace7a058-e659-4b3c-9145-22f869bf2f5a
+1698074156405	Marionette	INFO	Stopped listening on port 57950
+Dynamically enable window occlusion 1
+1698074158423	geckodriver	INFO	Listening on 127.0.0.1:57966
+1698074161471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilel0NLz8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074161793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074161844	Marionette	INFO	Listening on port 57978
+WebDriver BiDi listening on ws://127.0.0.1:57967
+Read port: 57978
+1698074161965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57967/devtools/browser/eecd7f00-68d2-4ede-b44a-282f579fbd93
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js:2:291995
+
+1698074186916	Marionette	INFO	Stopped listening on port 57978
+Dynamically enable window occlusion 1
+mozprofile6xXJTA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074171053	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074171102	Marionette	INFO	Listening on port 58095
+WebDriver BiDi listening on ws://127.0.0.1:58055
+Read port: 58095
+1698074171227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58055/devtools/browser/42ab600d-294b-4f7f-80ae-f3c9b8d0136f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js:2:291995
+
+1698074185508	Marionette	INFO	Stopped listening on port 58095
+Dynamically enable window occlusion 1
+mozprofileePCghi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074182228	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074182280	Marionette	INFO	Listening on port 58203
+WebDriver BiDi listening on ws://127.0.0.1:58168
+Read port: 58203
+1698074182408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58168/devtools/browser/427dad53-e7fd-42b4-b721-8fa90a21bf00
+1698074184769	Marionette	INFO	Stopped listening on port 58203
+Dynamically enable window occlusion 1
+1698074185688	geckodriver	INFO	Listening on 127.0.0.1:58251
+1698074239437	geckodriver	INFO	Listening on 127.0.0.1:58299
+1698074242490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileuNe8DH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074242678	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074242726	Marionette	INFO	Listening on port 58319
+WebDriver BiDi listening on ws://127.0.0.1:58300
+Read port: 58319
+1698074242855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58300/devtools/browser/4f861c9e-906f-4abf-a294-430b39221e17
+1698074243832	Marionette	INFO	Stopped listening on port 58319
+Dynamically enable window occlusion 1
+1698074246064	geckodriver	INFO	Listening on 127.0.0.1:58334
+1698074249119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileFsQNYb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074249305	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074249351	Marionette	INFO	Listening on port 58343
+WebDriver BiDi listening on ws://127.0.0.1:58335
+Read port: 58343
+1698074249476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58335/devtools/browser/56430b3c-8c52-421c-8334-fb270edb118c
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js:2:291995
+
+1698074262739	Marionette	INFO	Stopped listening on port 58343
+Dynamically enable window occlusion 1
+mozprofilek3fSCu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074258690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074258737	Marionette	INFO	Listening on port 58463
+WebDriver BiDi listening on ws://127.0.0.1:58424
+Read port: 58463
+1698074258851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58424/devtools/browser/3ecadf61-75eb-48b4-b936-9a1ea06f37e6
+1698074261111	Marionette	INFO	Stopped listening on port 58463
+Dynamically enable window occlusion 1
+1698074263969	geckodriver	INFO	Listening on 127.0.0.1:58524
+1698074435903	geckodriver	INFO	Listening on 127.0.0.1:59034
+1698074438967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilezcvmbb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074439175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074439237	Marionette	INFO	Listening on port 59043
+WebDriver BiDi listening on ws://127.0.0.1:59035
+Read port: 59043
+1698074439432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59035/devtools/browser/0254626b-e3df-4ca7-a8f7-923ce2866d15
+1698074440558	Marionette	INFO	Stopped listening on port 59043
+Dynamically enable window occlusion 1
+1698074442548	geckodriver	INFO	Listening on 127.0.0.1:59058
+1698074445618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile6kBn9g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074445794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074445843	Marionette	INFO	Listening on port 59068
+WebDriver BiDi listening on ws://127.0.0.1:59059
+Read port: 59068
+1698074445919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59059/devtools/browser/9da5905b-6b31-4e96-9c66-ec3a9933d2c7
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js:2:291995
+
+1698074468611	Marionette	INFO	Stopped listening on port 59068
+Dynamically enable window occlusion 1
+mozprofilezvMhH6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074455113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074455183	Marionette	INFO	Listening on port 59181
+WebDriver BiDi listening on ws://127.0.0.1:59150
+Read port: 59181
+1698074455373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59150/devtools/browser/8ce158cd-9cb8-48ed-b13f-eeb8630216a8
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb1698074466235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile4X3LZB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074466440	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074466496	Marionette	INFO	Listening on port 59290
+WebDriver BiDi listening on ws://127.0.0.1:59262
+Read port: 59290
+1698074466655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59262/devtools/browser/661f45c7-9a87-457b-8247-ff57e1ea4de1
+1698074468003	Marionette	INFO	Stopped listening on port 59290
+Dynamically enable window occlusion 1
+1698074468722	geckodriver	INFO	Listening on 127.0.0.1:59307
+1698074471788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilemYBWtu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074471977	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074472026	Marionette	INFO	Listening on port 59317
+Read port: 59317
+WebDriver BiDi listening on ws://127.0.0.1:59308
+1698074472056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59308/devtools/browser/db5e7b90-1995-493f-91d0-c255316dc2fb
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698074478039	geckodriver	INFO	Listening on 127.0.0.1:59402
+1698074481089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileoMEiF0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074481274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074481326	Marionette	INFO	Listening on port 59425
+Read port: 59425
+WebDriver BiDi listening on ws://127.0.0.1:59403
+1698074481353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698074495665	geckodriver	INFO	Listening on 127.0.0.1:59451
+1698074498743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileAx5HnO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074498934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074498983	Marionette	INFO	Listening on port 59460
+WebDriver BiDi listening on ws://127.0.0.1:59452
+Read port: 59460
+1698074499137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59452/devtools/browser/c858906d-848f-443d-8445-f7bb3eac5787
+1698074500263	Marionette	INFO	Stopped listening on port 59460
+Dynamically enable window occlusion 1
+1698074502267	geckodriver	INFO	Listening on 127.0.0.1:59476
+1698074505336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileovR1wM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074505530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074505574	Marionette	INFO	Listening on port 59485
+WebDriver BiDi listening on ws://127.0.0.1:59477
+Read port: 59485
+1698074505728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59477/devtools/browser/94f8073d-2a4a-4f69-9bb4-d41886643c8d
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js:2:291995
+
+1698074521631	Marionette	INFO	Stopped listening on port 59485
+Dynamically enable window occlusion 1
+mozprofilekfqqLI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074515865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074515920	Marionette	INFO	Listening on port 59590
+WebDriver BiDi listening on ws://127.0.0.1:59574
+Read port: 59590
+1698074516043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59574/devtools/browser/1e4a3ae8-ea2e-40a0-b63d-0ef570c5e65d
+1698074518586	Marionette	INFO	Stopped listening on port 59590
+Dynamically enable window occlusion 1
+1698074521245	geckodriver	INFO	Listening on 127.0.0.1:59640
+1698074524295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileIb8A54"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074524477	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074524530	Marionette	INFO	Listening on port 59658
+Read port: 59658
+WebDriver BiDi listening on ws://127.0.0.1:59641
+1698074524559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59641/devtools/browser/593f2d00-3bdd-4a5c-b1ff-f73b4e0e9fdb
+1698074526247	Marionette	INFO	Stopped listening on port 59658
+Dynamically enable window occlusion 1
+1698074531260	geckodriver	INFO	Listening on 127.0.0.1:59700
+1698074534307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileuL1yOV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074534487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074534548	Marionette	INFO	Listening on port 59709
+WebDriver BiDi listening on ws://127.0.0.1:59701
+Read port: 59709
+1698074534670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59701/devtools/browser/30e8d299-ba84-425d-b648-90c988696418
+1698074535771	Marionette	INFO	Stopped listening on port 59709
+Dynamically enable window occlusion 1
+1698074537831	geckodriver	INFO	Listening on 127.0.0.1:59724
+1698074540913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileWPXwh6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074541095	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074541145	Marionette	INFO	Listening on port 59733
+Read port: 59733
+WebDriver BiDi listening on ws://127.0.0.1:59725
+1698074541173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59725/devtools/browser/f62edbc6-e12e-4899-a712-aef5748f828f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js:2:291995
+
+1698074556401	Marionette	INFO	Stopped listening on port 59733
+Dynamically enable window occlusion 1
+mozprofilemB4m2T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074552044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074552091	Marionette	INFO	Listening on port 59836
+WebDriver BiDi listening on ws://127.0.0.1:59827
+Read port: 59836
+1698074552205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59827/devtools/browser/3391442e-cbea-414d-84c5-86e10a60bbd8
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698074555935	Marionette	INFO	Stopped listening on port 59836
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/translations-models list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698074558639	geckodriver	INFO	Listening on 127.0.0.1:59891
+1698074561708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59892" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileDyALd5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074561895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074561947	Marionette	INFO	Listening on port 59904
+WebDriver BiDi listening on ws://127.0.0.1:59892
+Read port: 59904
+1698074562077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59892/devtools/browser/1a20c1f9-c39f-47da-8d18-47ec9c35e11f
+1698074563726	Marionette	INFO	Stopped listening on port 59904
+Dynamically enable window occlusion 1
+1698074566621	geckodriver	INFO	Listening on 127.0.0.1:59935
+1698074569706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileHsej0j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074569888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074569936	Marionette	INFO	Listening on port 59944
+WebDriver BiDi listening on ws://127.0.0.1:59936
+Read port: 59944
+1698074570014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59936/devtools/browser/518c6a29-9bf1-4703-9279-e269fb885d8b
+1698074571008	Marionette	INFO	Stopped listening on port 59944
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/doh-providers list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698074573188	geckodriver	INFO	Listening on 127.0.0.1:59960
+1698074576262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileo5io6c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698074576442	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698074576490	Marionette	INFO	Listening on port 59970
+WebDriver BiDi listening on ws://127.0.0.1:59961
+Read port: 59970
+1698074576570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59961/devtools/browser/8916b457-b83b-46d3-b49b-c11ada0c84d7
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698074608263, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698074608263, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698074608263, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Script terminated by timeout at:
+37114/i/125/t/728/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:1941494
+
+1698075098219	geckodriver	INFO	Listening on 127.0.0.1:60738
+1698075101303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilev4imuN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075101482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075101527	Marionette	INFO	Listening on port 60749
+WebDriver BiDi listening on ws://127.0.0.1:60739
+Read port: 60749
+1698075101677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60739/devtools/browser/741af3ea-77f3-4d93-ae26-244875e84ccf
+1698075102795	Marionette	INFO	Stopped listening on port 60749
+Dynamically enable window occlusion 1
+1698075104803	geckodriver	INFO	Listening on 127.0.0.1:60764
+1698075107859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepJDIGv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075108044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075108088	Marionette	INFO	Listening on port 60773
+WebDriver BiDi listening on ws://127.0.0.1:60765
+Read port: 60773
+1698075108165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60765/devtools/browser/98ad82eb-b531-45d3-ba63-2e3b84b2d7c3
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698075114247	geckodriver	INFO	Listening on 127.0.0.1:60853
+1698075117319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilesAhUPe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075117493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075117539	Marionette	INFO	Listening on port 60877
+WebDriver BiDi listening on ws://127.0.0.1:60854
+Read port: 60877
+1698075117567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60854/devtools/browser/09274226-3cb5-4fbd-8890-fc4963c8d0a3
+1698075303825	geckodriver	INFO	Listening on 127.0.0.1:61026
+1698075306890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile45oX5a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075307071	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075307116	Marionette	INFO	Listening on port 61035
+WebDriver BiDi listening on ws://127.0.0.1:61027
+Read port: 61035
+1698075307245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61027/devtools/browser/0829eea7-b3f4-4468-8abf-969efa4c11d2
+1698075308213	Marionette	INFO	Stopped listening on port 61035
+Dynamically enable window occlusion 1
+1698075310427	geckodriver	INFO	Listening on 127.0.0.1:61050
+1698075313511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepnsHXf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075313688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075313735	Marionette	INFO	Listening on port 61061
+WebDriver BiDi listening on ws://127.0.0.1:61051
+Read port: 61061
+1698075313856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61051/devtools/browser/3ecd1a4a-531b-48bc-8cbe-1ec3f0e5f855
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698075319336	geckodriver	INFO	Listening on 127.0.0.1:61140
+1698075322404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileS3GEG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075322590	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075322640	Marionette	INFO	Listening on port 61164
+WebDriver BiDi listening on ws://127.0.0.1:61141
+Read port: 61164
+1698075322768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61141/devtools/browser/1ddf0df3-6c97-4803-b9d9-3a80b6cc17e3
+1698075485036	geckodriver	INFO	Listening on 127.0.0.1:61300
+1698075488113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileGBvPdx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075488293	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075488338	Marionette	INFO	Listening on port 61310
+WebDriver BiDi listening on ws://127.0.0.1:61301
+Read port: 61310
+1698075488495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61301/devtools/browser/d86392b3-3f4f-4aae-8717-07f40bc372d6
+1698075489508	Marionette	INFO	Stopped listening on port 61310
+Dynamically enable window occlusion 1
+1698075491687	geckodriver	INFO	Listening on 127.0.0.1:61326
+1698075494767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepbFY2a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075494940	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075494986	Marionette	INFO	Listening on port 61335
+WebDriver BiDi listening on ws://127.0.0.1:61327
+Read port: 61335
+1698075495315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61327/devtools/browser/125da759-0b1b-4571-a2ac-ffdab5b84ef1
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698075501142	geckodriver	INFO	Listening on 127.0.0.1:61413
+1698075504203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilegc5jr0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075504393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075504443	Marionette	INFO	Listening on port 61437
+WebDriver BiDi listening on ws://127.0.0.1:61414
+Read port: 61437
+1698075504609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61414/devtools/browser/ff4883f9-c9a9-4c93-a49d-4e223dbbb38a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698075512712	geckodriver	INFO	Listening on 127.0.0.1:61516
+1698075515770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilemamHIy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075515950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075515999	Marionette	INFO	Listening on port 61542
+WebDriver BiDi listening on ws://127.0.0.1:61517
+Read port: 61542
+1698075516075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61517/devtools/browser/7f9a1737-6ca7-43c0-871f-b83c96287ce4
+1698075518040	Marionette	INFO	Stopped listening on port 61542
+Dynamically enable window occlusion 1
+1698075518758	geckodriver	INFO	Listening on 127.0.0.1:61587
+1698075545708	geckodriver	INFO	Listening on 127.0.0.1:61604
+1698075548770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilecZoZPP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075548949	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075548996	Marionette	INFO	Listening on port 61615
+WebDriver BiDi listening on ws://127.0.0.1:61605
+Read port: 61615
+1698075549157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61605/devtools/browser/cd80fbd4-0a09-4180-aaf2-362335712f2f
+1698075550147	Marionette	INFO	Stopped listening on port 61615
+Dynamically enable window occlusion 1
+1698075552278	geckodriver	INFO	Listening on 127.0.0.1:61631
+1698075555330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileBJWgq6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698075555505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698075555551	Marionette	INFO	Listening on port 61643
+Read port: 61643
+WebDriver BiDi listening on ws://127.0.0.1:61632
+1698075555583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61632/devtools/browser/d2eb4432-a4a5-4c8a-9df3-f62deed3e06a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698075567716, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698075567716, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698075567716, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Script terminated by timeout at:
+399142/u/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3212915
+399142/c/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3213091
+c@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3213043
+write@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3211908
+266866/write/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3214977
+write@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3214963
+554623/c/n/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:3212084
+track@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2167790
+955559/track/</<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2168496
+955559/track/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2168482
+tryUseAPI@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2168758
+track@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2168430
+track@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2166856
+track@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2181318
+value@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2181952
+value@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2200526
+next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2296048
+826267/v/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1188286
+826267/t.prototype._next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187561
+826267/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187178
+47901/s/</r/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1198305
+202566/t/a._next<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1200250
+826267/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187178
+429127/o/</<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1209300
+202566/t/a._next<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1200250
+826267/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187178
+316716/t.prototype.next/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1184624
+o@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1234877
+316716/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1184476
+470003/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1183360
+427281/g/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/commons.js:1:896839
+next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:2296048
+826267/v/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1188286
+826267/t.prototype._next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187561
+826267/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187178
+674727/a/</<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1219771
+202566/t/a._next<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1200250
+826267/t.prototype.next@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1187178
+t@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/vendors.js:2:1195121
+
+1698088836648	geckodriver	INFO	Listening on 127.0.0.1:59943
+1698088839717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile6YV7vB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698088840009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698088840066	Marionette	INFO	Listening on port 59955
+WebDriver BiDi listening on ws://127.0.0.1:59944
+Read port: 59955
+1698088840263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59944/devtools/browser/1cee654d-853d-4373-b3a2-36995e30bba6
+1698088841359	Marionette	INFO	Stopped listening on port 59955
+Dynamically enable window occlusion 1
+1698088843389	geckodriver	INFO	Listening on 127.0.0.1:59970
+1698088846450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilegfjHve"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698088846640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698088846688	Marionette	INFO	Listening on port 59979
+WebDriver BiDi listening on ws://127.0.0.1:59971
+Read port: 59979
+1698088846855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59971/devtools/browser/3789cfb1-8b64-4927-b541-a7bd62c1b4dd
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698088856195, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698088856195, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698088856195, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1698089375590	geckodriver	INFO	Listening on 127.0.0.1:61191
+1698089378640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilelXiIwE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089379300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089379347	Marionette	INFO	Listening on port 61201
+Read port: 61201
+WebDriver BiDi listening on ws://127.0.0.1:61192
+1698089380919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61192/devtools/browser/ffb9e681-1062-4bc2-a56d-0f116e7bfc2d
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/b4/3398.b4aee755.js, line 2: unreachable code after return statement
+1698089390129	geckodriver	INFO	Listening on 127.0.0.1:61293
+1698089393183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileAOvWT0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089393375	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089393431	Marionette	INFO	Listening on port 61304
+WebDriver BiDi listening on ws://127.0.0.1:61294
+Read port: 61304
+Read port: 61304
+1698089395139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61294/devtools/browser/1e1db75c-b9e8-4a36-871b-b17e0192f6db
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698089400139	geckodriver	INFO	Listening on 127.0.0.1:61394
+1698089403185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilewsKM74"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089403375	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089403437	Marionette	INFO	Listening on port 61411
+WebDriver BiDi listening on ws://127.0.0.1:61395
+Read port: 61411
+1698089403610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61395/devtools/browser/486fe4e5-4db1-42c2-915d-b50702d5b36f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698089408650	geckodriver	INFO	Listening on 127.0.0.1:61497
+1698089411705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileh2ByCS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089411905	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089411956	Marionette	INFO	Listening on port 61515
+WebDriver BiDi listening on ws://127.0.0.1:61498
+Read port: 61515
+1698089412151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61498/devtools/browser/13d0a457-a0ab-452e-9634-82138e4526f1
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698089416812	geckodriver	INFO	Listening on 127.0.0.1:61602
+1698089419883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileTIqGmO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089420072	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089420123	Marionette	INFO	Listening on port 61617
+WebDriver BiDi listening on ws://127.0.0.1:61603
+Read port: 61617
+1698089420300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61603/devtools/browser/155a2bbe-263c-4633-bac4-2aab5fff691f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698089430505, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698089430505, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698089430505, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1698089941374	geckodriver	INFO	Listening on 127.0.0.1:62945
+1698089944452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileTFS4wB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089944675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089944724	Marionette	INFO	Listening on port 62957
+WebDriver BiDi listening on ws://127.0.0.1:62946
+Read port: 62957
+1698089944884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62946/devtools/browser/ea9d5c46-cfcb-4a60-97fe-6cff60ad4935
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698089952303	geckodriver	INFO	Listening on 127.0.0.1:63057
+1698089955342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilePCEnWz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089955534	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089955585	Marionette	INFO	Listening on port 63078
+WebDriver BiDi listening on ws://127.0.0.1:63058
+Read port: 63078
+1698089955897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63058/devtools/browser/6984f53a-37d8-4988-a7c0-6447a5894fb1
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698089963323	geckodriver	INFO	Listening on 127.0.0.1:63178
+1698089966379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilexGkzBd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698089966578	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698089966628	Marionette	INFO	Listening on port 63196
+WebDriver BiDi listening on ws://127.0.0.1:63179
+Read port: 63196
+1698089966795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63179/devtools/browser/f9d1d2a3-46e0-4445-880b-2ca14506c5e3
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698089978504, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698089978504, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698089978504, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1698090482968	geckodriver	INFO	Listening on 127.0.0.1:64216
+1698090486007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilej7IxJk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698090486189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698090486237	Marionette	INFO	Listening on port 64227
+WebDriver BiDi listening on ws://127.0.0.1:64217
+Read port: 64227
+1698090486405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64217/devtools/browser/37e77da6-21c9-4b4f-abd9-d23823b04da0
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698090495343, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698090495343, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698090495343, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1698090563462	geckodriver	INFO	Listening on 127.0.0.1:64411
+1698090566536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilem8Rm9I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698090566771	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698090566821	Marionette	INFO	Listening on port 64420
+WebDriver BiDi listening on ws://127.0.0.1:64412
+Read port: 64420
+1698090566972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64412/devtools/browser/7621d6e2-0ce6-4883-9b2d-5addee51ee9f
+1698090568141	Marionette	INFO	Stopped listening on port 64420
+Dynamically enable window occlusion 1
+1698090570134	geckodriver	INFO	Listening on 127.0.0.1:64435
+1698090573213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilesuyV5b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698090573388	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698090573434	Marionette	INFO	Listening on port 64444
+Read port: 64444
+WebDriver BiDi listening on ws://127.0.0.1:64436
+1698090573465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64436/devtools/browser/a6358406-a40a-4dc9-8afe-fe8e76e2e7ea
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698090585997, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698090585997, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698090585997, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Script terminated by timeout at:
+37114/i/125/t/728/<@https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js:2:1941494
+
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091931719	Marionette	INFO	Stopped listening on port 64444
+Dynamically enable window occlusion 1
+mozprofile0Rtd7s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091100148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091100201	Marionette	INFO	Listening on port 65396
+WebDriver BiDi listening on ws://127.0.0.1:65388
+Read port: 65396
+1698091100380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65388/devtools/browser/ec27076a-2c33-465f-81ae-0f527e1496d2
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091145804	Marionette	INFO	Stopped listening on port 65396
+Dynamically enable window occlusion 1
+mozprofile0RZzhq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091112988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091113038	Marionette	INFO	Listening on port 65514
+WebDriver BiDi listening on ws://127.0.0.1:65506
+Read port: 65514
+1698091113215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65506/devtools/browser/8b28214b-c8c6-401b-99d5-26491a9d0e81
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091145304	Marionette	INFO	Stopped listening on port 65514
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091134693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091134752	Marionette	INFO	Listening on port 49359
+WebDriver BiDi listening on ws://127.0.0.1:49334
+Read port: 49359
+1698091135029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49334/devtools/browser/c70f8807-be7b-4149-884e-864059ad42a6
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb1698091145502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileCbiwSD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091145694	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091145746	Marionette	INFO	Listening on port 49484
+WebDriver BiDi listening on ws://127.0.0.1:49454
+Read port: 49484
+1698091145926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49454/devtools/browser/8bd53411-0d6a-45e4-b6bf-2e5803e20c28
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-VH2MLJK7GH&l=__GTM_DATA_LAYER__&cx=c, line 458: Script terminated by timeout at:
+aa.rh@https://www.googletagmanager.com/gtag/js?id=G-VH2MLJK7GH&l=__GTM_DATA_LAYER__&cx=c:458:89
+get@https://www.googletagmanager.com/gtag/js?id=G-VH2MLJK7GH&l=__GTM_DATA_LAYER__&cx=c:456:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-VH2MLJK7GH&l=__GTM_DATA_LAYER__&cx=c:456:87
+aa.Dk/c/<@https://www.googletagmanager.com/gtag/js?id=G-VH2MLJK7GH&l=__GTM_DATA_LAYER__&cx=c:456:412
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:292148
+
+1698091932505	Marionette	INFO	Stopped listening on port 49484
+Dynamically enable window occlusion 1
+d port: 49601
+1698091156012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49581/devtools/browser/9dabdeeb-4519-4685-9ff9-3bf3a7a2607e
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698091166560, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698091166560, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698091166560, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091933265	Marionette	INFO	Stopped listening on port 49601
+Dynamically enable window occlusion 1
+mozprofilev09k5R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091667198	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091667247	Marionette	INFO	Listening on port 50469
+WebDriver BiDi listening on ws://127.0.0.1:50461
+Read port: 50469
+1698091667276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50461/devtools/browser/be2481bd-ed31-439b-8421-0c06b4c77cac
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091934036	Marionette	INFO	Stopped listening on port 50469
+Dynamically enable window occlusion 1
+mozprofilegfkwWv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091674186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091674239	Marionette	INFO	Listening on port 50568
+WebDriver BiDi listening on ws://127.0.0.1:50548
+Read port: 50568
+1698091674411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50548/devtools/browser/aad46570-8b49-4f8a-820a-fc7275b9b80a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091934974	Marionette	INFO	Stopped listening on port 50568
+Dynamically enable window occlusion 1
+mozprofileqkyFDa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091681294	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091681344	Marionette	INFO	Listening on port 50674
+WebDriver BiDi listening on ws://127.0.0.1:50655
+Read port: 50674
+1698091681505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50655/devtools/browser/f9b21f1a-cfca-411f-add5-b70326c4315a
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698091935806	Marionette	INFO	Stopped listening on port 50674
+Dynamically enable window occlusion 1
+mozprofileWaGlkO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698091688634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698091688683	Marionette	INFO	Listening on port 50779
+WebDriver BiDi listening on ws://127.0.0.1:50756
+Read port: 50779
+1698091688859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50756/devtools/browser/d5d4f070-1230-47ce-813e-7679fe73a59e
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698091707149, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698091707149, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698091707149, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1698092212162	geckodriver	INFO	Listening on 127.0.0.1:50957
+1698092215213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:292104
+
+1698092419848	Marionette	INFO	Stopped listening on port 50779
+Dynamically enable window occlusion 1
+VTOOLS=1 in the environment
+1698092215397	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698092215445	Marionette	INFO	Listening on port 50969
+WebDriver BiDi listening on ws://127.0.0.1:50958
+Read port: 50969
+1698092215619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50958/devtools/browser/9ce037a3-5e54-471c-91c7-cd8edf7d8a47
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698092223477, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698092223477, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698092223477, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+[Child 30408, MediaDecoderStateMachine #1] WARNING: 21681f56f00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 30408, MediaDecoderStateMachine #1] WARNING: 21681f9d240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+[Child 30408, MediaDecoderStateMachine #1] WARNING: 21681f9d240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: , line 0: uncaught exception: undefined
+1698092689287	geckodriver	INFO	Listening on 127.0.0.1:54702
+1698092692331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698092782354	Marionette	INFO	Stopped listening on port 50969
+Dynamically enable window occlusion 1
+VTOOLS=1 in the environment
+1698092692525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698092692573	Marionette	INFO	Listening on port 54711
+WebDriver BiDi listening on ws://127.0.0.1:54703
+Read port: 54711
+1698092692752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54703/devtools/browser/4071927d-3d44-4e90-afe4-c140c03e3374
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698092783194	Marionette	INFO	Stopped listening on port 54711
+Dynamically enable window occlusion 1
+mozprofilejfJBlw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698092699598	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698092699647	Marionette	INFO	Listening on port 54809
+WebDriver BiDi listening on ws://127.0.0.1:54791
+Read port: 54809
+1698092699820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54791/devtools/browser/5673cf09-1a96-4bbe-9c4d-24b46994d00b
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698092708541	Marionette	INFO	Stopped listening on port 54809
+Dynamically enable window occlusion 1
+mozprofileunV1Ms"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698092707220	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698092707279	Marionette	INFO	Listening on port 54911
+WebDriver BiDi listening on ws://127.0.0.1:54897
+Read port: 54911
+1698092707473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54897/devtools/browser/eec762e7-6960-4ed3-bc4e-3e83093f18ff
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698092784017	Marionette	INFO	Stopped listening on port 54911
+Dynamically enable window occlusion 1
+mozprofile6RZHs5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698092714202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698092714253	Marionette	INFO	Listening on port 55011
+WebDriver BiDi listening on ws://127.0.0.1:54992
+Read port: 55011
+1698092714420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54992/devtools/browser/f6a6c238-48a6-46a3-abfa-e3df79617273
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698092718270	geckodriver	INFO	Listening on 127.0.0.1:55092
+1698092721328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileUGDJIH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698092721529	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698092721582	Marionette	INFO	Listening on port 55110
+WebDriver BiDi listening on ws://127.0.0.1:55093
+Read port: 55110
+1698092721742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55093/devtools/browser/a45f46d8-790c-4148-b3d9-288bb16b1cd4
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698092729598, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698092729598, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698092729598, line 2: unreachable code after return statement
+JavaScript warning: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://slots-gr.casinogames1.pokerstars.com/livedistributed/23.9.0.32/js/live.js, line 2: Error: ADA Chatbot is not available. Support Config type: 1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1698093216444	geckodriver	INFO	Listening on 127.0.0.1:55902
+1698093219494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile6NJOU6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698093219717	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698093219769	Marionette	INFO	Listening on port 55910
+WebDriver BiDi listening on ws://127.0.0.1:55903
+Read port: 55910
+1698093219957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55903/devtools/browser/f6e77d2c-5585-42b3-ba18-8c5fc3aa25b7
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: Script terminated by timeout at:
+o@https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js:2:291995
+
+1698093229450	Marionette	INFO	Stopped listening on port 55910
+Dynamically enable window occlusion 1
+mozprofilegftP6V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698093227024	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698093227079	Marionette	INFO	Listening on port 56011
+WebDriver BiDi listening on ws://127.0.0.1:55995
+Read port: 56011
+1698093227253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55995/devtools/browser/4a46b17c-7aa6-48f8-bf22-2c4d22397372
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb1698093233901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofile7f5Meg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698093234098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698093234149	Marionette	INFO	Listening on port 56122
+WebDriver BiDi listening on ws://127.0.0.1:56101
+Read port: 56122
+1698093234336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56101/devtools/browser/dc7ce3a3-ec11-4338-90e5-73f873516cf0
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb1698093241565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofilepeaKIl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698093241764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698093241820	Marionette	INFO	Listening on port 56220
+WebDriver BiDi listening on ws://127.0.0.1:56207
+Read port: 56220
+1698093242009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56207/devtools/browser/7995a42b-3601-48df-abe8-005996e8e61f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+1698093246077	geckodriver	INFO	Listening on 127.0.0.1:56303
+1698093273914	geckodriver	INFO	Listening on 127.0.0.1:56333
+1698093276956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MANOSC~1\\AppData\\Local\\Temp\\rust_mozprofileV4D6K5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698093277160	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698093277212	Marionette	INFO	Listening on port 56342
+WebDriver BiDi listening on ws://127.0.0.1:56334
+Read port: 56342
+1698093277382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56334/devtools/browser/0ca75473-625e-457a-8015-53eb2c51f2fc
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/55/3398.55b90c0c.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pokerstars.gr."
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698093285721, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698093285721, line 2: unreachable code after return statement
+JavaScript warning: https://www.pokerstars.gr/el/sdk/v1/sdk.js?1698093285721, line 2: unreachable code after return statement
